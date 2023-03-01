@@ -6,24 +6,24 @@
 2. [팀 소개 및 주요 기능](#pushpin-팀-소개-및-주요-기능)
 
 3. [구현 기능](#pushpin-구현-기능) <br>
-   - [게시물 조회 페이지 구현]() <br>
-   - [해쉬태그 검색 페이지 구현]() <br>
-   - [게시글 상세 페이지 구현]() <br>
-   - [개인 프로필 페이지 구현]() <br>
-   - [프로필 정보 수정 기능 구현]() <br>
-   - [스타일 등록/수정/삭제 기능 구현]() <br>
-   - [좋아요 기능 구현]() <br>
-   - [게시물 신고 기능 구현]() <br>
-   - [게시물 조건별 조회 및 삭제 기능 구현]() <br>
-   - [신고내역 조건별 조회 및 신고 처리 기능 구현]() <br>
-   - [사용자 차단 기능 구현]() <br>
+   - [스타일 조회](#round_pushpin-스타일-조회) <br>
+   - [해쉬태그 검색](#round_pushpin-해쉬태그-검색) <br>
+   - [스타일 상세 페이지](#round_pushpin-스타일-상세-페이지) <br>
+   - [개인 프로필 페이지](#round_pushpin-개인-프로필-페이지) <br>
+   - [프로필 정보 수정](#round_pushpin-프로필-정보-수정) <br>
+   - [스타일 등록/수정/삭제](#round_pushpin-스타일-등록-수정-삭제) <br>
+   - [스타일 좋아요](#round_pushpin-스타일-좋아요) <br>
+   - [스타일 신고](#round_pushpin-스타일-신고) <br>
+   - [관리자 - 스타일 조건별 조회 및 삭제](#round_pushpin-스타일-조건별-조회-및-삭제) <br>
+   - [관리자 - 스타일 신고내역 조건별 조회 및 신고 처리](#round_pushpin-스타일-신고내역-조건별-조회-및-신고-처리) <br>
+   - [관리자 - 사용자 차단](#round_pushpin-사용자-차단) <br>
 
 4. [Document](#pushpin-document)
  
 # :pushpin: 개요
 - 프로젝트명 : scaleProject
 
-- 보고서 : [도미파솔라조_SCALE_최종보고서.pdf](https://github.com/Munjiring/scaleProject/files/10863179/_SCALE_.pptx)
+- 보고서 : [SCALE_최종보고서.pptx](https://github.com/Munjiring/scaleProject/files/10863277/SCALE_최종보고서.pptx)
 
 - 기획 의도 <br>
 &nbsp;- 늘어난 중고거래 속 가품사기 방지 필요성 증가 <br>
@@ -37,5 +37,19 @@
 # :pushpin: 팀 소개 및 주요 기능
  
 # :pushpin: 구현 기능
+### [사용자]
+### :round_pushpin: 스타일 조회
+### :round_pushpin: 해쉬태그 검색
+### :round_pushpin: 스타일 상세 페이지
+### :round_pushpin: 개인 프로필 페이지
+### :round_pushpin: 프로필 정보 수정
+### :round_pushpin: 스타일 등록 수정 삭제
+### :round_pushpin: 스타일 좋아요
+### :round_pushpin: 스타일 신고
+
+### [관리자]
+### :round_pushpin: 스타일 조건별 조회 및 삭제
+### :round_pushpin: 스타일 신고내역 조건별 조회 및 신고 처리
+### :round_pushpin: 사용자 차단
 
 # :pushpin: Document
