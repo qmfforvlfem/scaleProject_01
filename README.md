@@ -5,18 +5,18 @@
 
 2. [팀 소개 및 주요 기능](#pushpin-팀-소개-및-주요-기능)
 
-3. [구현 기능](#pushpin-구현-기능) <br>
-   - [스타일 조회](#round_pushpin-스타일-조회) <br>
-   - [해쉬태그 검색](#round_pushpin-해쉬태그-검색) <br>
-   - [스타일 상세 페이지](#round_pushpin-스타일-상세-페이지) <br>
-   - [개인 프로필 페이지](#round_pushpin-개인-프로필-페이지) <br>
-   - [프로필 정보 수정](#round_pushpin-프로필-정보-수정) <br>
-   - [스타일 등록/수정/삭제](#round_pushpin-스타일-등록-수정-삭제) <br>
-   - [스타일 좋아요](#round_pushpin-스타일-좋아요) <br>
-   - [스타일 신고](#round_pushpin-스타일-신고) <br>
-   - [관리자 - 스타일 조건별 조회 및 삭제](#round_pushpin-스타일-조건별-조회-및-삭제) <br>
-   - [관리자 - 스타일 신고내역 조건별 조회 및 신고 처리](#round_pushpin-스타일-신고내역-조건별-조회-및-신고-처리) <br>
-   - [관리자 - 사용자 차단](#round_pushpin-사용자-차단) <br>
+3. [구현 기능](#pushpin-구현-기능)
+   - [스타일 조회](#round_pushpin-스타일-조회)
+   - [해쉬태그 검색](#round_pushpin-해쉬태그-검색)
+   - [스타일 상세 페이지](#round_pushpin-스타일-상세-페이지)
+   - [개인 프로필 페이지](#round_pushpin-개인-프로필-페이지)
+   - [프로필 정보 수정](#round_pushpin-프로필-정보-수정)
+   - [스타일 등록/수정/삭제](#round_pushpin-스타일-등록수정삭제)
+   - [스타일 좋아요](#round_pushpin-스타일-좋아요)
+   - [스타일 신고](#round_pushpin-스타일-신고)
+   - [관리자 - 스타일 조건별 조회 및 삭제](#round_pushpin-스타일-조건별-조회-및-삭제)
+   - [관리자 - 스타일 신고내역 조건별 조회 및 신고 처리](#round_pushpin-스타일-신고내역-조건별-조회-및-신고-처리)
+   - [관리자 - 사용자 차단](#round_pushpin-사용자-차단)
 
 4. [Document](#pushpin-document)
  
@@ -43,7 +43,7 @@
 ### :round_pushpin: 스타일 상세 페이지
 ### :round_pushpin: 개인 프로필 페이지
 ### :round_pushpin: 프로필 정보 수정
-### :round_pushpin: 스타일 등록 수정 삭제
+### :round_pushpin: 스타일 등록/수정/삭제
 ### :round_pushpin: 스타일 좋아요
 ### :round_pushpin: 스타일 신고
 
