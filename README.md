@@ -1,9 +1,9 @@
-# SCALE PROJECT
+# 📌 SCALE PROJECT
  
-# Contents
+# 📌 Contents
  
-# 개요
+# 📌 개요
  
-# 팀 소개 및 주요 기능
+# 📌 팀 소개 및 주요 기능
  
-# 구현 기능
+# 📌 구현 기능
