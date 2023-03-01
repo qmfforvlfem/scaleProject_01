@@ -23,7 +23,7 @@
 # :pushpin: 개요
 - 프로젝트명 : scaleProject
 
-- 보고서 : [도미파솔라조_SCALE_최종보고서.pdf](./도미파솔라조_SCALE_최종보고서.pptx)
+- 보고서 : [도미파솔라조_SCALE_최종보고서.pdf](https://github.com/Munjiring/scaleProject/files/10863179/_SCALE_.pptx)
 
 - 기획 의도 <br>
 &nbsp;- 늘어난 중고거래 속 가품사기 방지 필요성 증가 <br>
