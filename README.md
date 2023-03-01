@@ -6,10 +6,10 @@
 2. 팀 소개 및 주요 기능
 
 3. 구현 기능
-&nbsp;&nbsp;&nbsp;&nbsp;- 게시물 조회 페이지 구현
-&nbsp;&nbsp;&nbsp;&nbsp;- 해쉬태그 검색 페이지 구현
-&nbsp;&nbsp;&nbsp;&nbsp;- 게시글 상세 페이지 구현
-&nbsp;&nbsp;&nbsp;&nbsp;- 개인 프로필 페이지 구현
+&nbsp;&nbsp;&nbsp;&nbsp;- 게시물 조회 페이지 구현 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 해쉬태그 검색 페이지 구현 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 게시글 상세 페이지 구현 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 개인 프로필 페이지 구현 <br>
  - 프로필 정보 수정 기능 구현
  - 스타일 등록/수정/삭제 기능 구현
  - 좋아요 기능 구현
